@@ -1,2 +1,14 @@
-# rush-repo
-Rush repo to control installation of GitHub scripts
+<div align='center'>
+
+# My Rush Repo
+
+```
+_______                       ______  
+____  /  ___________  ___________  /_ 
+___  /   __  ___/  / / /_  ___/_  __ \
+__  /    _  /   / /_/ /_(__  )_  / / /
+_  /     /_/    \__,_/ /____/ /_/ /_/ 
+/_/      Personal Package Manager     
+```
+
+</div>
