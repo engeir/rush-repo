@@ -1,1 +1,1 @@
-rm ~/bin/rofi-wifi-menu
+rm ~/.local/bin/rofi-wifi-menu
