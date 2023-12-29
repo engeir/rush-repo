@@ -2,3 +2,5 @@ git clone https://github.com/ericmurphyxyz/rofi-wifi-menu.git /tmp/rofi-wifi-men
 cd /tmp/rofi-wifi-menu
 cp rofi-wifi-menu.sh ~/.local/bin/rofi-wifi-menu
 chmod +x ~/.local/bin/rofi-wifi-menu
+cd /tmp/
+rm -rf /tmp/rofi-wifi-menu

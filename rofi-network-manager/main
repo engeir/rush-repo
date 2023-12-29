@@ -4,3 +4,5 @@ cp rofi-network-manager.sh ~/.local/bin/rofi-network-manager
 cp rofi-network-manager.conf ~/.local/bin/rofi-network-manager.conf
 cp rofi-network-manager.rasi ~/.local/bin/rofi-network-manager.rasi
 chmod +x ~/.local/bin/rofi-network-manager
+cd /tmp/
+rm -rf /tmp/rofi-network-manager

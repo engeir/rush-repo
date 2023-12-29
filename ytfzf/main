@@ -1,3 +1,5 @@
 git clone https://github.com/pystardust/ytfzf.git /tmp/ytfzf
 cd /tmp/ytfzf
 sudo make install doc
+cd /tmp/
+rm -rf /tmp/ytfzf
