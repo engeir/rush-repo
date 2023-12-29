@@ -1,0 +1,4 @@
+Install rofi-network-manager, a manager for network connections using bash, rofi,
+nmcli and qrencode.
+
+Source: https://github.com/P3rf/rofi-network-manager

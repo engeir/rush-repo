@@ -1,0 +1,4 @@
+git clone https://github.com/P3rf/rofi-network-manager.git /tmp/rofi-network-manager
+cd /tmp/rofi-network-manager
+cp rofi-network-manager.sh ~/.local/bin/rofi-network-manager
+chmod +x ~/.local/bin/rofi-network-manager
