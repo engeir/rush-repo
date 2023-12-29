@@ -1,1 +1,3 @@
 rm ~/.local/bin/rofi-network-manager
+rm ~/.config/rofi/rofi-network-manager.conf
+rm ~/.config/rofi/rofi-network-manager.rasi
