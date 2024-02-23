@@ -1,0 +1,6 @@
+git clone https://github.com/tmux/tmux.git /tmp/tmux
+cd /tmp/tmux
+sh autogen.sh
+./configure && make
+cd /tmp/
+rm -rf /tmp/tmux
